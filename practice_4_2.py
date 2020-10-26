@@ -6,7 +6,7 @@ while inp != '':
     inp = input("Word #" + str(i) + ": ")
     if inp == '' and len(input_list) < 1:
         print("Please enter at least one word!")
-        inp = " "
+        inp = " " #prevent while loop from breaking
     elif inp != '':
         i += 1
         input_list.append(inp)
