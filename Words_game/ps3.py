@@ -7,7 +7,7 @@
 # Collaborators : <your collaborators>
 # Time spent    : <total time>
 
-"Задача 4(Вайлдкарди) була не виконана"
+# !!!!!!!!!!Задача 4(Вайлдкарди) була не виконана!!!!!!!!!!!!!!!!!
 
 import math
 import random
